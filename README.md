@@ -1,7 +1,9 @@
 # STUDENT WORKSHEET: SDLC, AGILE, DEVOPS & GIT FOUNDATIONS
 
 Course Code / Subject: SOFTWARE ENGINEERING
+
 Student Name: CULAS, JOHN FRANCIS D.
+
 Date: Aug 27 2006 Section: 3.5 BSIT
 
 GitHub Repository URL: https://github.com/FrancisCulas/sdlc-foundations-lab
